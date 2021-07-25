@@ -2,4 +2,4 @@
 
 First site: [Styles Conference][1]
 
-[1]: inasai.github.io/styles-conference/        "First"
+[1]: http://inasai.github.io/styles-conference/        "First"
